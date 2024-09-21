@@ -1,5 +1,4 @@
-## [project URL] 
-(https://faseehurrehman99.github.io/resume/)
+## [project URL](https://faseehurrehman99.github.io/resume/)
 ## How to Open the HTML CV/Resume in Visual Studio Code
 
 Follow these steps to view and edit the HTML CV/Resume in Visual Studio Code:
